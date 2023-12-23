@@ -1,0 +1,122 @@
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 59
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 71
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 75
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 78
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: currect_ans in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 86
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: wrong_ans in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 94
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: score in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 99
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: get_coin in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 102
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: users_coins in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 105
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 122
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 140
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 148
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 156
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: per in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 174
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: user_id in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 175
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: score in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 176
+[07-May-2022 03:36:18 UTC] PHP Notice:  Undefined variable: type in /home/topikqui/public_html/eps.topikquiz.com/resulting.php on line 178
+[11-May-2022 02:49:49 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 4
+[11-May-2022 02:49:49 UTC] PHP Notice:  Undefined variable: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 43
+[11-May-2022 02:49:49 UTC] PHP Notice:  Undefined index: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 202
+[11-May-2022 02:49:49 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 203
+[11-May-2022 02:49:49 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 204
+[11-May-2022 02:49:49 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 206
+[11-May-2022 02:51:39 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 4
+[11-May-2022 02:51:39 UTC] PHP Notice:  Undefined variable: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 43
+[11-May-2022 02:51:39 UTC] PHP Notice:  Undefined index: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 202
+[11-May-2022 02:51:39 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 203
+[11-May-2022 02:51:39 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 204
+[11-May-2022 02:51:39 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 206
+[25-May-2022 07:45:59 UTC] PHP Notice:  Undefined index: opp_name in /home/topikqui/public_html/eps.topikquiz.com/battle-quiz.php on line 8
+[25-May-2022 07:45:59 UTC] PHP Notice:  Undefined index: opp_id in /home/topikqui/public_html/eps.topikquiz.com/battle-quiz.php on line 187
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 4
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 4
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 4
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 177
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 178
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 179
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 180
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined variable: subcategory_name in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 181
+[04-Jun-2022 12:22:53 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 182
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 4
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 4
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 4
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 177
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 178
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 179
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 180
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined variable: subcategory_name in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 181
+[04-Jun-2022 13:39:36 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-quiz.php on line 182
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: play_time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 36
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: currect_ans in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 41
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: wrong_ans in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 52
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: challage_time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 58
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: challage_time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 58
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: play_time1 in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 108
+[05-Jun-2022 00:07:22 UTC] PHP Notice:  Undefined variable: challage_time in /home/topikqui/public_html/eps.topikquiz.com/self-challenge-result.php on line 109
+[05-Jun-2022 05:06:39 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 4
+[05-Jun-2022 05:06:39 UTC] PHP Notice:  Undefined variable: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 43
+[05-Jun-2022 05:06:39 UTC] PHP Notice:  Undefined index: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 202
+[05-Jun-2022 05:06:39 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 203
+[05-Jun-2022 05:06:39 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 204
+[05-Jun-2022 05:06:39 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 206
+[05-Jun-2022 05:06:43 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 4
+[05-Jun-2022 05:06:43 UTC] PHP Notice:  Undefined variable: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 43
+[05-Jun-2022 05:06:43 UTC] PHP Notice:  Undefined index: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 202
+[05-Jun-2022 05:06:43 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 203
+[05-Jun-2022 05:06:43 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 204
+[05-Jun-2022 05:06:43 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 206
+[05-Jun-2022 05:07:08 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 4
+[05-Jun-2022 05:07:08 UTC] PHP Notice:  Undefined variable: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 43
+[05-Jun-2022 05:07:08 UTC] PHP Notice:  Undefined index: level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 202
+[05-Jun-2022 05:07:08 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 203
+[05-Jun-2022 05:07:08 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 204
+[05-Jun-2022 05:07:08 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/eps.topikquiz.com/quizing.php on line 206
+[06-Jun-2022 02:20:00 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/quizing.php on line 4
+[06-Jun-2022 02:20:00 UTC] PHP Notice:  Undefined variable: level in /home/topikqui/public_html/quizing.php on line 43
+[06-Jun-2022 02:20:00 UTC] PHP Notice:  Undefined index: level in /home/topikqui/public_html/quizing.php on line 210
+[06-Jun-2022 02:20:00 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/quizing.php on line 211
+[06-Jun-2022 02:20:00 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/quizing.php on line 212
+[06-Jun-2022 02:20:00 UTC] PHP Notice:  Undefined index: max_level in /home/topikqui/public_html/quizing.php on line 214
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/self-challenge-quiz.php on line 4
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/self-challenge-quiz.php on line 4
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/self-challenge-quiz.php on line 4
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/self-challenge-quiz.php on line 177
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/self-challenge-quiz.php on line 178
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/self-challenge-quiz.php on line 179
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/self-challenge-quiz.php on line 180
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined variable: subcategory_name in /home/topikqui/public_html/self-challenge-quiz.php on line 181
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/self-challenge-quiz.php on line 182
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/self-challenge-quiz.php on line 4
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/self-challenge-quiz.php on line 4
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/self-challenge-quiz.php on line 4
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: limit in /home/topikqui/public_html/self-challenge-quiz.php on line 177
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: category_id in /home/topikqui/public_html/self-challenge-quiz.php on line 178
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: subcategory_id in /home/topikqui/public_html/self-challenge-quiz.php on line 179
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/self-challenge-quiz.php on line 180
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined variable: subcategory_name in /home/topikqui/public_html/self-challenge-quiz.php on line 181
+[06-Jun-2022 02:39:28 UTC] PHP Notice:  Undefined index: time in /home/topikqui/public_html/self-challenge-quiz.php on line 182
+[22-Feb-2023 12:13:38 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[22-Feb-2023 12:13:38 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[22-Feb-2023 12:14:35 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[22-Feb-2023 12:14:35 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[22-Feb-2023 14:49:41 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[22-Feb-2023 14:49:41 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[28-Feb-2023 15:38:44 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[28-Feb-2023 15:38:44 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[18-Mar-2023 00:28:03 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[18-Mar-2023 00:28:03 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[25-Mar-2023 07:39:17 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[25-Mar-2023 07:39:17 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[08-Apr-2023 06:20:13 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[08-Apr-2023 06:20:13 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[08-Apr-2023 06:20:32 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[08-Apr-2023 06:20:32 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[08-Apr-2023 06:59:13 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[08-Apr-2023 06:59:13 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[10-Apr-2023 04:16:57 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[10-Apr-2023 04:16:57 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[10-Apr-2023 04:18:14 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[10-Apr-2023 04:18:14 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
+[10-Apr-2023 04:19:51 UTC] PHP Warning:  gmdate() expects parameter 2 to be int, string given in /home/topiktes/public_html/UBT/self-challenge-result.php on line 9
+[10-Apr-2023 04:19:51 UTC] PHP Warning:  A non-numeric value encountered in /home/topiktes/public_html/UBT/self-challenge-result.php on line 73
