@@ -607,13 +607,20 @@ li.breadcrumb-item {
 }
 
 
-/* @media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 700px) {
     .question-box{
         & .my-questions-img{
             width: 50%!important;
         }
     }
-} */
+    .question-box2{
+      font-size: 5px!important;
+      & .button-container-whole{
+        transform: scale(0.8);
+        height: 55px;
+      }
+    }
+}
 
 
 

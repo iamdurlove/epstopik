@@ -104,7 +104,8 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                             <div style="height:60vh!important;" class="split left">
                                 <div style="height:60vh!important;" class="question-box2" style=" margin-top: 15px;">
 
-                                    <div style="display: flex; align-items:center; width:100%; ">
+                                    <div class="button-container-whole"
+                                        style="display: flex; align-items:center; width:100%; ">
                                         <div class=" options-menu">
                                             <label class="shadow-box-options quizing-options" id="a">
                                                 <div class="table_q">
@@ -148,7 +149,8 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
 
 
 
-                                    <div style="display: flex; align-items:center; width:100%; ">
+                                    <div class="button-container-whole"
+                                        style="display: flex; align-items:center; width:100%; ">
                                         <div class=" options-menu">
                                             <label class="shadow-box-options quizing-options" id="b">
                                                 <div class="table_q">
@@ -191,7 +193,8 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
 
 
 
-                                    <div style="display: flex; align-items:center; width:100%; ">
+                                    <div class="button-container-whole"
+                                        style="display: flex; align-items:center; width:100%; ">
                                         <div class=" options-menu">
                                             <label class="shadow-box-options quizing-options" id="c">
                                                 <div class="table_q">
@@ -233,7 +236,8 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                                     </div>
 
 
-                                    <div style="display: flex; align-items:center; width:100%; ">
+                                    <div class="button-container-whole"
+                                        style="display: flex; align-items:center; width:100%; ">
                                         <div class=" options-menu">
                                             <label class="shadow-box-options quizing-options" id="d">
                                                 <div class="table_q">
