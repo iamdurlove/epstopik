@@ -60,7 +60,7 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
             <div style="width:100%!important;" class="row justify-content-center">
                 <div style="width:100% !important; padding: 0 1%;" class="justify-content-center">
 
-                    <div class="row mt-4 justify-content-center">
+                    <!-- <div class="row mt-4 justify-content-center">
                         <nav class="quiz">
                             <ol class="breadcrumb text-bold background-white">
                                 <li class="breadcrumb-item" id="catname">Category</li>
@@ -69,18 +69,23 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                                 <?php } ?>
                             </ol>
                         </nav>
-                    </div>
+                    </div> -->
 
-                    <div class="row justify-content-center text-center shadow-box-quiz pt-2 pb-2">
-                        <div class="col-4 spt-3">
+                    <div style=" height:7vh; display: flex; justify-content:space-evenly; align-items:center;"
+                        class="shadow-box-quiz">
+                        <div class="">
                             Que: <span id="attempted_question"></span>/<span id="total_question"></span>
                         </div>
-                        <div class="col-4 d-flex justify-content-center">
-                            <div id="app"></div>
+                        <div style="display: flex; align-items:center; " class="">
+                            <div style="display: flex; align-items:center; ">
+                                <div style="margin-right: 4px;">
+                                    Time Remaining:
+                                </div>
+                                <div id="app"></div>
+                            </div>
                         </div>
-                        <div class="col-4 add-cursor spt-3" id="submitData">
-                            <span class="border border-light p-2">Submit</span>
-
+                        <div class="add-cursor" id="submitData">
+                            <span class="border border-light">Submit</span>
                         </div>
                     </div>
 

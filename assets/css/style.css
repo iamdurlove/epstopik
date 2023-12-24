@@ -763,6 +763,21 @@ li.breadcrumb-item {
     color: #FFFFFF !important;
 }
 
+
+ /* submitting button css */
+
+ #resultData {
+    & button {
+        text-align: center;
+        color: white;
+        font-size: 1em;
+        background-color: #1D6CBA;
+        border-radius: 10px;
+        height: 40px;
+        /* padding: 5%; */
+ }
+
+
 .findImg{
     width: 100px;
     height: 100px;
@@ -1059,29 +1074,29 @@ email::before { content: attr(data-user) "\0040" }
 
 /*Timer*/
 .base-timer {
-    position: relative;
-    width: 50px;
-    height: 50px;
+    display: flex;
+    align-items: center;
+    
 }
 .base-timer__svg {
-    transform: scaleX(-1);
+    /* transform: scaleX(-1); */
 }
 .base-timer__circle {
     fill: none;
     stroke: none;
 }
 .base-timer__path-elapsed {
-    stroke-width: 4px;
+    /* stroke-width: 4px; */
     stroke: white;
 }
 .base-timer__path-remaining {
-    stroke-width: 4px;
-    stroke-linecap: round;
+    /* stroke-width: 4px; */
+    /* stroke-linecap: round;
     transform: rotate(90deg);
-    transform-origin: center;
-    transition: 1s linear all;
-    fill-rule: nonzero;
-    stroke: currentColor;
+    transform-origin: center; */
+    /* transition: 1s linear all; */
+    /* fill-rule: nonzero;
+    stroke: currentColor; */
 }
 .base-timer__path-remaining.green {
     color: rgb(65, 184, 131);
@@ -1093,15 +1108,15 @@ email::before { content: attr(data-user) "\0040" }
     color: red;
 }
 .base-timer__label {
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    top: 0;
+    /* position: absolute; */
+    
+    /* top: 0; */
     display: flex;
     align-items: center;
+    margin-top: 5px;
     justify-content: center;
     font-family: "Raleway", Helvetica, sans-serif;
-    font-size: 1rem;
+    /* font-size: 1rem; */
 }
 
 @media only screen and (max-width: 1920px) {
@@ -1341,3 +1356,4 @@ email::before { content: attr(data-user) "\0040" }
 
 
 
+ }
