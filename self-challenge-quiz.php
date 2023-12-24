@@ -56,8 +56,8 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
 
 
     <div class="wapper">
-        <div style="width: 90%;" class="container-bg-set container top-margin">
-            <div class="row justify-content-center">
+        <div style="width: 100vw!important; ">
+            <div style="width:100%!important;" class="row justify-content-center">
                 <div class="justify-content-center col-md-8">
 
                     <div class="row mt-4 justify-content-center">
@@ -85,23 +85,24 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                     </div>
 
 
-                    <div style="display: flex!important; " class="own-container">
+                    <div style="display: flex!important; height:60vh!important; " class="own-container">
 
 
-                        <div style="width: 60%!important;" class="split right">
-                            <div class="question-box2" style=" margin-top: 15px;">
+                        <div style="width: 50%!important; " class="split right">
+                            <div class="question-box2; height:60vh!important; display:flex; flex-direction: column; justify-content:center; align-items:center; "
+                                style=" margin-top: 15px;">
                                 <div id="my-fonts-questions">
                                 </div>
-                                <div id="questionsimg">
+                                <div style="margin: auto;" id="questionsimg">
                                 </div>
                             </div>
                         </div>
 
 
-                        <div style="width: 40%!important; " class="options-container" style="width: 100%;">
+                        <div style="width: 50%!important; " class="options-container" style="width: 100%;">
 
-                            <div class="split left">
-                                <div class="question-box2" style=" margin-top: 15px;">
+                            <div style="height:60vh!important;" class="split left">
+                                <div style="height:60vh!important;" class="question-box2" style=" margin-top: 15px;">
 
                                     <div style="display: flex; align-items:center; width:100%; ">
                                         <div class=" options-menu">

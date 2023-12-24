@@ -591,7 +591,7 @@ li.breadcrumb-item {
    
     width: 100%;
     box-shadow: 0 0 5px rgba(0,0,0,.6);
-    max-height: 250px;
+    /* max-height: 250px; */
     overflow-y: auto;
 }
 
@@ -1146,9 +1146,9 @@ email::before { content: attr(data-user) "\0040" }
     .question-box{
         width: 70%;
     }
-    .question-box2{
+    /* .question-box2{
         width: 70%;
-    }
+    } */
     .quizing-op{
         padding: 0px 20px;
         font-size: 1.7rem;
