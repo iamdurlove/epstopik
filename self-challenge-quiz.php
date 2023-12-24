@@ -85,13 +85,11 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                     </div>
 
 
-                    <div style="display: flex!important; height:60vh!important; " class="own-container">
+                    <div style="display: flex!important;" class="own-container">
 
 
-                        <div style="width: 50%!important; height:60vh!important; overflow-y: auto; "
-                            class="split right">
-                            <div class="question-box;"
-                                style="display:flex; flex-direction: column; justify-content:center; align-items:center; margin-top: 4%; height:60vh!important; ">
+                        <div style="width: 60%!important;" class="split right">
+                            <div class="question-box">
 
                                 <div id="my-fonts-questions">
                                 </div>
@@ -101,7 +99,7 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                         </div>
 
 
-                        <div style="width: 50%!important; " class="options-container" style="width: 100%;">
+                        <div style="width: 40%!important; " class="options-container" style="width: 100%;">
 
                             <div style="height:60vh!important;" class="split left">
                                 <div style="height:60vh!important;" class="question-box2" style=" margin-top: 15px;">
