@@ -72,7 +72,7 @@ button:focus{ outline:none; }
 .pt-100 { padding-top: 5%!important; }
 .pt-50 { padding-top:50px!important; }
 .pt-20 { padding-top: 20px; }
-.qpt-2{padding-top: .7rem;!important;}
+.qpt-2{padding-top: .7rem!important;}
 .spt-3 { padding-top: 2% !important; }
 .pb-50 { padding-bottom:50px!important;  }
 .font-24{ font-size: 24px; }
@@ -1296,3 +1296,7 @@ email::before { content: attr(data-user) "\0040" }
 769px — 1024px: Small screens, laptops
 1025px — 1200px: Desktops, large screens
 1201px and more —  Extra large screens, TV*/
+
+
+
+
