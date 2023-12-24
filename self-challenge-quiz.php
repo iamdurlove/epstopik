@@ -98,7 +98,7 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
                         </div>
 
 
-                        <div style="width: 40%!important;" class="options-container" style="width: 100%;">
+                        <div style="width: 40%!important; " class="options-container" style="width: 100%;">
 
                             <div class="split left">
                                 <div class="question-box2" style=" margin-top: 15px;">

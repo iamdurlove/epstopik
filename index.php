@@ -9,7 +9,12 @@ session_start();
         crossorigin="anonymous"></script>
 
     <title>Topik Test Korea</title>
-    <?php include('include-css.php'); ?>
+    <?php include('include-css.php');
+
+header("Location: /self-challenge.php");
+    ?>
+
+
 
 
 
