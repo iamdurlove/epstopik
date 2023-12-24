@@ -58,7 +58,7 @@ if (!isset($_POST['subcategory_name']) && !isset($_POST['time']) && !isset($_POS
     <div class="wapper">
         <div style="width: 100vw!important; ">
             <div style="width:100%!important;" class="row justify-content-center">
-                <div class="justify-content-center col-md-8">
+                <div style="width:100% !important; padding: 0 1%;" class="justify-content-center">
 
                     <div class="row mt-4 justify-content-center">
                         <nav class="quiz">
