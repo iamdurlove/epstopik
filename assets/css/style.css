@@ -578,10 +578,11 @@ li.breadcrumb-item {
     border-radius: 10px;
     padding: 10px;
     margin: 10px 20px 10px 20px;
-    width: 80%;
+    /* width: 80%; */
     box-shadow: 0 0 5px rgba(0,0,0,.6);
     max-height: 250px;
-    overflow-y: auto;
+   overflow: hidden;
+    /* scroll-behavior: smooth; */
 }
 .question-box2{
     text-align: center;
